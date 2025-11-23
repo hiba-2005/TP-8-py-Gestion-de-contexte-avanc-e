@@ -1,0 +1,16 @@
+[2025-11-23 21:33:57.955080] Début du batch sur operations.csv
+[2025-11-23 21:33:57.957542] Début traitement ligne 1: ['operation1', 'param1', 'param2']
+[2025-11-23 21:33:57.957542] Fin traitement ligne 1: ['OPERATION1', 'PARAM1', 'PARAM2']
+[2025-11-23 21:33:57.958574] Début traitement ligne 2: ['operation2', 'paramA', 'paramB']
+[2025-11-23 21:33:57.958574] Fin traitement ligne 2: ['OPERATION2', 'PARAMA', 'PARAMB']
+[2025-11-23 21:33:57.958574] Début traitement ligne 3: ['operation3', 'exemple', 'test']
+[2025-11-23 21:33:57.958574] Fin traitement ligne 3: ['OPERATION3', 'EXEMPLE', 'TEST']
+[2025-11-23 21:33:57.958574] Début traitement ligne 4: ['addition', '4', '5']
+[2025-11-23 21:33:57.958574] Fin traitement ligne 4: ['ADDITION', '4', '5']
+[2025-11-23 21:33:57.958574] Début traitement ligne 5: ['multiplication', '3', '7']
+[2025-11-23 21:33:57.958574] Fin traitement ligne 5: ['MULTIPLICATION', '3', '7']
+[2025-11-23 21:33:57.958574] Début traitement ligne 6: ['division', '20', '4']
+[2025-11-23 21:33:57.958574] Fin traitement ligne 6: ['DIVISION', '20', '4']
+[2025-11-23 21:33:57.958574] Début traitement ligne 7: ['message', 'bonjour', 'python']
+[2025-11-23 21:33:57.958574] Fin traitement ligne 7: ['MESSAGE', 'BONJOUR', 'PYTHON']
+[2025-11-23 21:33:57.958574] Fin du batch sur operations.csv
